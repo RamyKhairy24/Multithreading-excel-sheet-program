@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultithreadingPhonenumberChecker", "MultithreadingPhonenumberChecker.csproj", "{DC2EF023-9E6E-408E-8CBE-9BA7B7AFE567}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC2EF023-9E6E-408E-8CBE-9BA7B7AFE567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC2EF023-9E6E-408E-8CBE-9BA7B7AFE567}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC2EF023-9E6E-408E-8CBE-9BA7B7AFE567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC2EF023-9E6E-408E-8CBE-9BA7B7AFE567}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58BB5486-82E1-482E-A48D-C3A6117AF267}
+	EndGlobalSection
+EndGlobal

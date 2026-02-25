@@ -1,0 +1,15 @@
+2026-02-16 16:38:21 Starting scan of file: C:\Users\ramyk\OneDrive\Desktop\invalid.xlsx
+2026-02-16 16:38:21 Opening workbook with ClosedXML...
+2026-02-16 16:38:22 Reading rows...
+2026-02-16 16:38:22 Finished reading rows.
+2026-02-16 16:38:22 Loaded 3 phone numbers from Excel.
+2026-02-16 16:38:22 Scanned row 2: 100288
+2026-02-16 16:38:22 Invalid number at row 2: 100288 | Failed criteria: Does not match any allowed MSISDN format
+2026-02-16 16:38:22 Scanned row 3: 1234
+2026-02-16 16:38:22 Invalid number at row 3: 1234 | Failed criteria: Does not match any allowed MSISDN format
+2026-02-16 16:38:22 Scanned row 4: 37464747
+2026-02-16 16:38:22 Invalid number at row 4: 37464747 | Failed criteria: Does not match any allowed MSISDN format
+2026-02-16 16:38:22 failed file
+2026-02-16 16:38:22 Total invalid numbers: 3
+2026-02-16 16:38:22 Total time taken: 00:00:03.7014527
+2026-02-16 16:38:22 Scan complete.
